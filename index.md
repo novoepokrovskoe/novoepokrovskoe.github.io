@@ -1,8 +1,9 @@
 ## Новое покровское (заовражье)
 
-You can use the [editor on GitHub](https://github.com/novoepokrovskoe/novoepokrovsoe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Карты
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Яндекс](https://yandex.ru/maps/-/CVg9jM6T) | [Росреестр Кадастр](http://pkk5.rosreestr.ru/#x=4906140.097271002&y=7609863.250093263&z=17&text=56%2C257706%2044%2C072381&type=1&app=search&opened=1) | [2gis](http://go.2gis.com/opdn4) | План участков
+
 
 ### Markdown
 
