@@ -8,8 +8,8 @@
 ### Документы
 
 * Я купил участок, что дальше? 
-* Получение Адреса
-* Устав
+* [Получение Адреса](newaddress.md)
+* [Устав](https://drive.google.com/file/d/0B9rAQwkP4iIpbXFRbmFEM1FSbjQ/view?usp=sharing)
 
 ### Контакты
 
