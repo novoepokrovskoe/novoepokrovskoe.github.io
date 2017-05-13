@@ -11,6 +11,7 @@
 * [Получение Адреса](newaddress.md)
 * [Устав](https://drive.google.com/file/d/0B9rAQwkP4iIpbXFRbmFEM1FSbjQ/view?usp=sharing)
 * [Получение Электичества](el.md)
+* [Газ](gas.md)
 
 ### Контакты
 
