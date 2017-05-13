@@ -5,7 +5,7 @@
 адресу г. Кстово, ул Магистральная, 2а (время работы понедельник, вторник, четверг с 8:00 до 17:00) 
 https://maps.yandex.ru/-/CVsNbVkG или подать заявку через интернет:
 
-* Зарегистрироваться по адресу:https://utp.mrsk-cp.ru/_layouts/15/MRSKGetData/Registration.aspx
+* Зарегистрироваться по адресу: https://utp.mrsk-cp.ru/_layouts/15/MRSKGetData/Registration.aspx
 * Зайти в личный кабинет: https://utp.mrsk-cp.ru/_layouts/15/MRSKGetData/PersonalOffice.aspx
 * Перейти на форму подачи заявкиhttps://utp.mrsk-cp.ru/_layouts/15/MRSKGetData/UserRequestTP.aspx?communicationChannel=PersonalOffice     
 
