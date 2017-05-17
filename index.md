@@ -1,11 +1,10 @@
 ## Новости
 
 <span style="color: green"> 
-  Cобрание участников ТИЗа состоится 28 мая (воскресенье) в 11 часов в доме Павла Тупикова
+  * Cобрание участников ТИЗа состоится 28 мая (воскресенье) в 11 часов в доме Павла Тупикова
 </span>
 
-Адрес: [ул. Вознесенская 52](https://yandex.ru/maps/47/nizhny-novgorod/?ll=44.072433%2C56.256103&z=18&mode=whatshere&whatshere%5Bpoint%5D=44.071850%2C56.255652&whatshere%5Bzoom%5D=17&l=sat%2Cskl). 
-
+**Адрес: [ул. Вознесенская 52](https://yandex.ru/maps/47/nizhny-novgorod/?ll=44.072433%2C56.256103&z=18&mode=whatshere&whatshere%5Bpoint%5D=44.071850%2C56.255652&whatshere%5Bzoom%5D=17&l=sat%2Cskl).** 
 
 
 ## Карты
