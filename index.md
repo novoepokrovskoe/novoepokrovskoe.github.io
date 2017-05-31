@@ -18,6 +18,7 @@
 ## Документы
 
 * [Я купил участок, что дальше?](iamnew.md)
+* [**Получение разрешения от росавиации**](rosavia.md)
 * [Получение Адреса](newaddress.md)
 * [Устав](https://drive.google.com/file/d/0B9rAQwkP4iIpbXFRbmFEM1FSbjQ/view?usp=sharing)
 * [Получение Электичества](el.md)
