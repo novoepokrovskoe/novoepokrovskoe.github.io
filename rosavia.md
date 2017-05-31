@@ -17,7 +17,7 @@
 Вопросы можно задавать по телефону 8-495-503-52-00, но дозвониться по нему очень не легко. Обычно занято, либо не берут. 
 
 Необходимые документы:
-* [Заявка](http://mtuvtcrfavt.ru/tinybrowser/files/zayavka-na-stroitelstvo.pdf), [образец заполнения](http://mtuvtcrfavt.ru/tinybrowser/files/zayavlenie-obrazec.pdf). То есть нужно распечатать заявку и от руки заполнить следующие пункты:
+* [Заявка](http://mtuvtcrfavt.ru/tinybrowser/files/zayavka-na-stroitelstvo.pdf), ( [образец заполнения](http://mtuvtcrfavt.ru/tinybrowser/files/zayavlenie-obrazec.pdf) ). То есть нужно распечатать заявку и от руки заполнить следующие пункты:
    * ваше ФИО
    * почтовый адрес куда прийдет ответ
    * Наименование и/или предназначение объекта, то есть **индивидуальный жилой дом**
