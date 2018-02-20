@@ -2,7 +2,7 @@
 
 ### Дело № А43-9092/2014
 
-[](http://kad.arbitr.ru/Card/54a2618f-b288-44c2-a4e0-43fc6fb4b864)
+[http://kad.arbitr.ru/Card/54a2618f-b288-44c2-a4e0-43fc6fb4b864](http://kad.arbitr.ru/Card/54a2618f-b288-44c2-a4e0-43fc6fb4b864)
 
 **Дата заседания**: 09 ноября 2015 года
 
@@ -18,7 +18,9 @@
 
 
 ### Дело № А43-27063/2013
-[](http://kad.arbitr.ru/Card/6ee1bb79-b871-45d1-aaf7-9cba15a3bea0)
+
+[http://kad.arbitr.ru/Card/6ee1bb79-b871-45d1-aaf7-9cba15a3bea0](http://kad.arbitr.ru/Card/6ee1bb79-b871-45d1-aaf7-9cba15a3bea0)
+
 **Дата заседания**: 19 января 2017 года
 
 **Участники**: ТИЗ «Новое Покровское VS ОАО "МРСК Центра и Приволжья"
@@ -36,7 +38,7 @@
 
 ### Дело № А43-47656/2017
 
-[](http://kad.arbitr.ru/Card/adfead24-2186-4ad9-946d-2dd11e34f2f1)
+[http://kad.arbitr.ru/Card/adfead24-2186-4ad9-946d-2dd11e34f2f1](http://kad.arbitr.ru/Card/adfead24-2186-4ad9-946d-2dd11e34f2f1)
 
 **Дата заседания**: 6 февраля 2018 года
 
@@ -49,7 +51,7 @@
 
 ### ДЕЛО № 2-911/2018 (2-6497/2017;) ~ М-5241/2017
 
-[](https://sovetsky--nnov.sudrf.ru/modules.php?name=sud_delo&srv_num=1&name_op=case&case_id=293881640&result=1&delo_id=1540005&new=)
+[https://sovetsky--nnov.sudrf.ru/modules.php?name=sud_delo&srv_num=1&name_op=case&case_id=293881640&result=1&delo_id=1540005&new=](https://sovetsky--nnov.sudrf.ru/modules.php?name=sud_delo&srv_num=1&name_op=case&case_id=293881640&result=1&delo_id=1540005&new=)
 
 **Дата заседания**: 20.02.2018
 
