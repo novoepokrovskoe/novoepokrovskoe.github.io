@@ -24,6 +24,7 @@
 * [Устав](https://drive.google.com/file/d/0B9rAQwkP4iIpbXFRbmFEM1FSbjQ/view?usp=sharing)
 * [Получение Электичества](el.md)
 * [Газ](gas.md)
+* [СИнтернет](internet.md)
 * [Бюджет](https://docs.google.com/spreadsheets/u/1/d/1t9-OOpwrP63SrPeXltTn8q3whzqD54Lq4CzSVKlgBaw/edit#gid=580097230)  (2015-2017)
 * [Суды за Землю Общего Пользования](zop.md)
 * [Анализ воды](water_quality.md)
