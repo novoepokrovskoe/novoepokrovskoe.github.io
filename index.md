@@ -24,6 +24,7 @@
 
 ## Контакты
 
-* Телеграмм: [https://t.me/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg](https://t.me/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg)
+* Телеграмм: [https://t.me/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg](https://t.me/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg) или [https://teleg.run/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg](https://teleg.run/joinchat/AAAAAEJeb8uuGV8Cg4r8Hg)
+* Viber: [https://invite.viber.com/?g=vnb09co_F0qdpBBDDppOc4u1vkqirG8P](https://invite.viber.com/?g=vnb09co_F0qdpBBDDppOc4u1vkqirG8P)
 * *Председатель* ТИЗа: Тупиков Павел, телефон **+7 904 391 0222**, email: **ppro@inbox.ru**
 * Ольга Павловна (член правления межевание, кадастр земельных участков), телефон **+7910 390 6285**, email: **olga.juravina@yandex.ru**
