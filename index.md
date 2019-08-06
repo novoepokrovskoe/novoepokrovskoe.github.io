@@ -18,7 +18,7 @@
 * [Анализ воды](water_quality.md)
 * [Школьный вопрос](schools.md)
 * [Судебные тяжбы](litigation.md)
-* [Собрания](meeеtings.md)
+* [Собрания](meetings.md)
 
 ## Контакты
 
